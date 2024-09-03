@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\pages\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\pages\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\pages\\proveedores\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\pages\\proveedores\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\pages\\materialescritorios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\pages\\materialescritorios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\pages\\materialescritorios\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\pages\\materialescritorios\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\data\\applibreria_caruajulcatigllacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\data\\applibreria_caruajulcatigllacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\pages\\materialescritorios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\pages\\materialescritorios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\pages\\materialescritorios\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\pages\\materialescritorios\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|c:\\users\\alex\\source\\repos\\applibreria_caruajulcatiglla\\applibreria_caruajulcatiglla\\pages\\proveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC8D410-F9DC-4853-AE94-35E552FCDF45}|AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla.csproj|solutionrelative:applibreria_caruajulcatiglla\\pages\\proveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml.cs",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:20:06.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml.cs",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:20:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppLibreria_CaruajulcaTigllaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Data\\AppLibreria_CaruajulcaTigllaContext.cs",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Data\\AppLibreria_CaruajulcaTigllaContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Data\\AppLibreria_CaruajulcaTigllaContext.cs",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Data\\AppLibreria_CaruajulcaTigllaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:17:44.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwD0AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:12:07.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml*",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:12:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Create.cshtml",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Pages\\Proveedores\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:06:46.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml.cs",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:01:56.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Pages\\MaterialEscritorios\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:00:07.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Program.cs",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\Program.cs",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:58:59.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLibreria_CaruajulcaTiglla\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\AppLibreria_CaruajulcaTiglla\\AppLibreria_CaruajulcaTiglla\\appsettings.json",
+              "RelativeToolTip": "AppLibreria_CaruajulcaTiglla\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T12:47:16.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

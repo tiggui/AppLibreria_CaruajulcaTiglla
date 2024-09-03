@@ -1,0 +1,63 @@
+﻿@page
+@model AppLibreria_CaruajulcaTiglla.Pages.MaterialEscritorios.IndexModel
+
+@{
+    ViewData["Title"] = "Material";
+}
+
+<h1>Material</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MaterialEscritorio[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaterialEscritorio[0].Proveedor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaterialEscritorio[0].Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaterialEscritorio[0].Stock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.MaterialEscritorio) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Proveedor.RazonSocial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stock)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    
+    <h4>Total de registros: @Model.TotalRegistros</h4>
+</div>
+<div>
+    
+    <h4>Monto total en existencias: @Model.MontoTotalExistencias.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("es-PE"))</h4>
+</div>

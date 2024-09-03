@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AppLibreria_CaruajulcaTiglla.props" />
+</Project>
