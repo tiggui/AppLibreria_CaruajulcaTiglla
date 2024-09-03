@@ -17,79 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppLibreria_CaruajulcaTiglla
 build_property.RootNamespace = AppLibreria_CaruajulcaTiglla
-build_property.ProjectDir = c:\Users\Alex\source\repos\AppLibreria_CaruajulcaTiglla\AppLibreria_CaruajulcaTiglla\
+build_property.ProjectDir = C:\Users\Alex\source\repos\AppLibreria_CaruajulcaTiglla\AppLibreria_CaruajulcaTiglla\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Alex\source\repos\AppLibreria_CaruajulcaTiglla\AppLibreria_CaruajulcaTiglla
+build_property.MSBuildProjectDirectory = C:\Users\Alex\source\repos\AppLibreria_CaruajulcaTiglla\AppLibreria_CaruajulcaTiglla
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Error.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Index.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Create.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF0ZXJpYWxFc2NyaXRvcmlvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Delete.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF0ZXJpYWxFc2NyaXRvcmlvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Details.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF0ZXJpYWxFc2NyaXRvcmlvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Edit.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF0ZXJpYWxFc2NyaXRvcmlvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Index.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/MaterialEscritorios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF0ZXJpYWxFc2NyaXRvcmlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Privacy.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Create.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Delete.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Details.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Edit.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Index.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Proveedores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/_ViewImports.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/_ViewStart.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Shared/_Layout.cshtml]
+[C:/Users/Alex/source/repos/AppLibreria_CaruajulcaTiglla/AppLibreria_CaruajulcaTiglla/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ky9l0slbo4
